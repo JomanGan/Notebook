@@ -31,7 +31,7 @@ gitbook是一个很漂亮、上档次的做笔记的工具
   - [发布到Github Pages](publish/gitpages.md)
 * [结束](end/README.md)
 ```
-- 可以看到，**每个目录中，都有一个README.md文件，相当于一章的说明。**
+- 可以看到，**每个章节，都有一个README.md文件，相当于一章的说明。**
 - 一旦改动了summary文件，通过运行‘gitbook init’命令能够在***对应各级目录***下生成*对应的md文件*
 - 往往改动后需要实时查看效果，那么可以运行‘gitbook serve’，然后打开固定[链接](http://localhost:4000)就能直观看见当前行文结构啦
 - 除了各级readme，其他普通md文件都是你接下来要写的具体文章哦(**markdown一定要会，否则白扯**)
@@ -48,7 +48,7 @@ $ gitbook -h
     serve [options] [source_dir] Build then serve a gitbook from a directory
     install [options] [source_dir] Install plugins for a book
     pdf [options] [source_dir] Build a gitbook as a PDF
-    epub [options] [source_dir] Build a gitbook as a ePub book
+     [options] [source_dir] Build a gitbook as a  book
     mobi [options] [source_dir] Build a gitbook as a Mobi book
     init [source_dir]      Create files and folders based on contents of SUMMARY.md
     publish [source_dir]   Publish content to the associated gitbook.io book
