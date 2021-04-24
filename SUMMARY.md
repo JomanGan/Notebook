@@ -17,7 +17,7 @@
     * [Repo/Git/Gerrit](linux/repoGG.md)
     * [代码开发的备份策略](linux/codebackup.md)
     * [代码review的简单说明](linux/codereview.md)
-    * [谈谈我的代码编译经验](linux/codereview.md)
+    * [谈谈我的代码编译经验](linux/codeCompile.md)
 * [Windows](win/README.md)
     * [win10用户请收下这几款软件](win/winApps.md)
     * [chrome好用插件](win/crx.md)
