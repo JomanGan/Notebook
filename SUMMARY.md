@@ -1,4 +1,22 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [开源](opensource/README.md)
+  * [值得一看](opensource/goodseeds.md)
+* [基本安装手册](howto/README.md)
+  * [Gitbook安装](howto/gitbookinstall.md)
+* [入门相关](intro.md)
+* [JAVA](java.md)
+* [Android基础](android.md)
+* [Android项目](demo.md)
+* [Linux](linux.md)
+* [Windows](win.md)
+* [‘放学后’](missing/README.md)
+  * [算法](missing/leetcode.md)
+  * [后端](missing/server.md)
+  * [爬虫](missing/webcrawler.md)
+* [书籍](book.md)
+* [其他](noclass/README.md)
+  * [测试github能否sync](noclass/ce-shi-github-neng-fou-sync.md)
+* [结束](end.md)
 
