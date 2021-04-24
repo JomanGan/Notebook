@@ -67,6 +67,6 @@ $ gitbook -h
 5、以后都只需在github网页端 **在线编辑**每个md文件即可  
 
 ### 课题
-- 不会用github，不懂git基本使用，请参考(intro/git.md)
-- GitBook.com 其实还可以集成 GitHub，这里不具体讲，详见(noclass/gitbookAdvanced.md)
+- 不会用github，不懂git基本使用，请参考[xx](../intro/git.md)
+- GitBook.com 其实还可以集成 GitHub，这里不具体讲，详见[xx](../noclass/gitbookAdvanced.md)
 - 后续github上的任何文章的更新，都能通过‘git pull’命令同步到本地哦
