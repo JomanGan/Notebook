@@ -1,21 +1,4 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
-* [开源](opensource/README.md)
-    * [值得一看](opensource/goodseeds.md)
-* [基本安装手册](howto/README.md)
-    * [Gitbook安装](howto/gitbookinstall.md)
-* [入门相关](intro/README.md)
-* [JAVA](java/README.md)
-* [Android基础](android/README.md)
-* [Android项目](demo/README.md)
-* [Linux](linux/README.md)
-* [Windows](win/README.md)
-* [‘放学后’](missing/README.md)
-    * [算法](missing/leetcode.md)
-    * [后端](missing/server.md)
-    * [爬虫](missing/webcrawler.md)
-* [书籍](book/README.md)
-* [其他](noclass/README.md)
-* [结束](end/README.md)
+* [Initial page](README.md)
 
