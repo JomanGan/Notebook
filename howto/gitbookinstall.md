@@ -15,8 +15,8 @@ gitbook是一个很漂亮、上档次的做笔记的工具
 ### SUMMARY.md
 这个文件是一本书的目录结构，使用Markdown语法，修改它相当于更新书籍目录,SUMMARY.md举例：   
 
->* [基本安装](howtouse/README.md)
-> - [Node.js安装](howtouse/Nodejsinstall.md)
+>/* [基本安装](howtouse/README.md)
+> /- [Node.js安装](howtouse/Nodejsinstall.md)
 > - [Gitbook安装](howtouse/gitbookinstall.md)
 > - [Gitbook命令行速览](howtouse/gitbookcli.md)
 >* [图书编辑](book/README.md)
