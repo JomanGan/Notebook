@@ -60,11 +60,11 @@ $ gitbook -h
     -V, --version  output the version number
 ```
 ### 我总结的发布流程
-1、github创建一个空仓库，例如/notebook
-2、本地clone下上面的仓库
-3、利用gitbook 本地命令行初步构建整个summary
-4、push 至远程仓库
-5、以后都只需在github网页端 **在线编辑**每个md文件即可
+1、github创建一个空仓库，例如/notebook  
+2、本地clone下上面的仓库  
+3、利用gitbook 本地命令行初步构建整个summary  
+4、push 至远程仓库  
+5、以后都只需在github网页端 **在线编辑**每个md文件即可  
 
 ### 课题
 - 不会用github，不懂git基本使用，请参考xx
