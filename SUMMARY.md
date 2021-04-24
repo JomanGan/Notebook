@@ -6,6 +6,7 @@
 * [基本安装手册](howto/README.md)
     * [Gitbook安装](howto/gitbookinstall.md)
 * [入门相关](intro/README.md)
+    * [Git最基础](intro/git.md)
 * [JAVA](java/README.md)
 * [Android基础](android/README.md)
 * [Android项目](demo/README.md)
@@ -17,5 +18,6 @@
     * [爬虫](missing/webcrawler.md)
 * [书籍](book/README.md)
 * [其他](noclass/README.md)
+    * [GitBook.com 集成 GitHub](noclass/gitbookAdvanced.md)
 * [结束](end/README.md)
 
