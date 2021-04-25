@@ -28,6 +28,6 @@
 * [书籍](book/README.md)
 * [其他](noclass/README.md)
     * [GitBook.com 集成 GitHub](noclass/gitbookAdvanced.md)
-    * [Markdown花里胡哨](noclass/mdSpecial.md)
+    * [Markdown花里胡哨](noclass/mdColorful.md)
 * [结束](end/README.md)
 
