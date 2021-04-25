@@ -29,3 +29,6 @@ review如果有需要改动的地方，那本地改好后，git commit --amend�
 重复
 
 ```
+### 关键点
+1. 项目清单库(.repo/manifests)
+2. 同时操作多个git库（repo forall -c "git add . ; git reset --hard xxxxx"）
