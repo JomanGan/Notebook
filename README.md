@@ -11,4 +11,4 @@ Joman的笔记本（作为学习记录的笔记本）
 ## 优秀的借鉴
 1. https://yuzeshan.gitbooks.io/gitbook-studying/content/  
 2. https://xintiaohuiyi.gitbook.io/jynotebook/  
-3. https://blog.csdn.net/weixin_41024483/article/details/100090621(Windows)  
+3. https://blog.csdn.net/weixin_41024483/article/details/100090621 (Windows)  
