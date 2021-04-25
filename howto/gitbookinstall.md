@@ -68,6 +68,7 @@ $ gitbook -h
 
 ### 课题
 - [Markdown花里胡哨](../noclass/mdColorful.md)
+- [jump](#qi-ta-ming-ling)
 - 不会用github，不懂git基本使用，请参考[Git最基础](../intro/git.md)
 - GitBook.com 其实还可以集成 GitHub，这里不具体讲，详见[GitBook.com 集成 GitHub](../noclass/gitbookAdvanced.md)
 - 后续github上的任何文章的更新，都能通过‘git pull’命令同步到本地哦
