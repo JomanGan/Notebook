@@ -14,7 +14,7 @@
     * [ADB命令](android/adb.md)
     * [谈谈四大组件](android/component.md)
     * [AudioVideo](android/audiovideo.md)
-    * [Camera相关](android/camera.md)
+    * [CameraPic相关](android/camera.md)
 * [Android项目](demo/README.md)
     * [项目进行时](demo/ongoing.md)
     * [阶段总结/周报](demo/demoWeekly.md)
